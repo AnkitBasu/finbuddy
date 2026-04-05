@@ -1,0 +1,17 @@
+SEC Investor Protection Rules
+The Securities and Exchange Commission (SEC) enforces federal securities laws. Key regulations include: mandatory disclosure of material information by public companies, prohibition of insider trading, regulation of securities exchanges and broker-dealers, and investor protection through the Securities Investor Protection Corporation (SIPC) which covers up to $500,000 per account.
+
+Fiduciary Duty
+Registered Investment Advisors (RIAs) owe a fiduciary duty to clients, meaning they must act in the client's best interest. Broker-dealers operate under a suitability standard, which is less strict. The SEC's Regulation Best Interest (Reg BI) enhanced the standard for broker-dealers in 2020. Always verify whether your advisor is a fiduciary.
+
+FINRA Regulations
+The Financial Industry Regulatory Authority (FINRA) oversees broker-dealers. FINRA rules include suitability requirements, margin requirements, and advertising regulations. Investors can check broker backgrounds at FINRA BrokerCheck. FINRA arbitration handles disputes between investors and brokers.
+
+Know Your Customer (KYC) and Anti-Money Laundering (AML)
+Financial institutions must verify customer identity and monitor for suspicious activity. The Bank Secrecy Act requires reporting of transactions over $10,000. Structuring transactions to avoid reporting requirements is illegal. These regulations protect against fraud, money laundering, and terrorist financing.
+
+Tax Implications of Investing
+Long-term capital gains (assets held over 1 year) are taxed at 0%, 15%, or 20% depending on income. Short-term capital gains are taxed as ordinary income. Tax-loss harvesting can offset gains with losses (up to $3,000 of net losses can offset ordinary income annually). Wash sale rules prohibit repurchasing substantially identical securities within 30 days of a loss sale.
+
+Suitability and Risk Disclosure
+Investment recommendations must be suitable for the client's financial situation, objectives, and risk tolerance. All material risks must be disclosed. Past performance disclaimers are legally required. No investment can be marketed as guaranteed or risk-free. Projected returns must be accompanied by appropriate disclaimers.

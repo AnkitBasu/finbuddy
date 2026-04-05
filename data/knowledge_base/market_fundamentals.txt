@@ -1,0 +1,17 @@
+Stock Market Basics
+Stocks represent ownership shares in a company. Stock prices are driven by supply and demand, which reflect investor expectations about future earnings. The price-to-earnings (P/E) ratio is a key valuation metric — the S&P 500 historical average P/E is approximately 15-16. Current market P/E ratios above 20 suggest higher valuations relative to historical norms.
+
+Bond Market Fundamentals
+Bonds are debt instruments where the investor lends money to an entity. Bond prices move inversely to interest rates. When interest rates rise, existing bond prices fall. US Treasury bonds are considered risk-free. Corporate bonds carry credit risk but offer higher yields. Duration measures a bond's sensitivity to interest rate changes.
+
+Market Cycles and Bear Markets
+Bear markets (20%+ decline from recent highs) have occurred approximately every 3-5 years historically. The average bear market lasts about 9-14 months. Bull markets average 4-5 years in duration. Historically, markets have always recovered from bear markets, though recovery times vary from months to years.
+
+Inflation and Its Impact
+Inflation erodes purchasing power over time. The Federal Reserve targets 2% annual inflation. Investments must earn above the inflation rate to grow in real terms. Treasury Inflation-Protected Securities (TIPS) provide direct inflation protection. Stocks have historically outpaced inflation over long periods. Real estate and commodities can also serve as inflation hedges.
+
+Market Indicators
+Key indicators include: GDP growth rate (healthy economy: 2-3% annually), unemployment rate (healthy: under 5%), Consumer Price Index (CPI) for inflation, Federal Funds Rate (influences all borrowing costs), yield curve (inverted yield curve has preceded every recession since 1970), VIX index (market fear gauge, above 30 indicates high volatility).
+
+Sector Rotation
+Different sectors outperform at different stages of the economic cycle. Early recovery favors cyclicals (consumer discretionary, financials). Mid-cycle favors technology and industrials. Late cycle favors energy and materials. Recession favors defensive sectors (utilities, healthcare, consumer staples).

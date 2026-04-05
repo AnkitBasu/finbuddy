@@ -1,0 +1,23 @@
+Asset Allocation Fundamentals
+Asset allocation is the process of dividing investments among different asset categories such as stocks, bonds, real estate, and cash. The right allocation depends on your time horizon, risk tolerance, and financial goals. A common rule of thumb is to subtract your age from 110 to determine your stock allocation percentage.
+
+Diversification Strategy
+Diversification reduces risk by spreading investments across various financial instruments, industries, and categories. A well-diversified portfolio typically includes domestic stocks, international stocks, bonds, real estate (REITs), and commodities. No single investment should represent more than 5-10% of a portfolio for individual stocks.
+
+Dollar-Cost Averaging (DCA)
+Dollar-cost averaging involves investing a fixed amount at regular intervals regardless of market conditions. This strategy reduces the impact of volatility on the overall purchase price. DCA is particularly effective for long-term investors in volatile markets and helps avoid the pitfall of trying to time the market.
+
+Risk-Return Tradeoff
+Higher potential returns generally come with higher risk. Conservative investors should emphasize bonds and stable value funds. Moderate investors typically hold a 60/40 stock-to-bond ratio. Aggressive investors may allocate 80-90% to equities. Risk tolerance should decrease as you approach your financial goal's target date.
+
+Index Fund Investing
+Index funds provide broad market exposure at low cost. The S&P 500 index has historically returned approximately 10% annually before inflation (about 7% after inflation). Total market index funds offer even broader diversification. Low expense ratios (under 0.10%) significantly impact long-term returns due to compounding.
+
+Rebalancing
+Portfolio rebalancing involves periodically adjusting your asset mix back to your target allocation. This typically means selling assets that have performed well and buying those that have underperformed. Most financial advisors recommend rebalancing at least annually or when allocations drift more than 5% from targets.
+
+Compound Interest
+Compound interest is the addition of interest to the principal sum, meaning interest earns interest over time. The Rule of 72 states that dividing 72 by your annual return rate gives you the approximate years to double your investment. Starting early is crucial — a 25-year-old investing $500/month at 10% return will accumulate approximately $3.2 million by age 65.
+
+Value vs Growth Investing
+Value investing focuses on stocks that appear underpriced relative to their fundamentals (low P/E ratio, high dividend yield). Growth investing targets companies with above-average revenue and earnings growth potential. Historically, value stocks have outperformed growth stocks over long periods, though growth stocks have dominated in recent decades.

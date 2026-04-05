@@ -1,0 +1,14 @@
+langchain>=0.3.27
+langchain-openai>=0.3.0
+langchain-community>=0.3.0
+langgraph>=0.4.0
+streamlit>=1.44.0
+yfinance>=0.2.40
+plotly>=5.20.0
+pydantic>=2.0.0
+python-dotenv>=1.0.0
+faiss-cpu>=1.11.0
+feedparser>=6.0.0
+pinecone>=5.0.0
+langchain-pinecone>=0.2.0
+langsmith>=0.3.0
